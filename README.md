@@ -7,3 +7,5 @@ Starting up:
 (2) In CLI, run this command: adb reverse tcp:8081 tcp:8081 to hook to emulator
 
 (3) Build package with command: react-native run-android
+
+(4) Start Development Server with command: react-native start
